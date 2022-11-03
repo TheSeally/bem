@@ -1,0 +1,10 @@
+/* Стили info */
+@import '../blocks/info/info.css';
+@import '../blocks/info/__header/info__header.css';
+@import '../blocks/info/__button/_border/info__button_border_round.css';
+
+/* Стили cards */
+@import '../blocks/cards/cards.css';
+
+/* Стили page-content */
+@import '../blocks/page-content/__cards/page-content__cards.css';

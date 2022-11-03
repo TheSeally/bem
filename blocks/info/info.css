@@ -1,0 +1,10 @@
+.info {
+    width: 90%;
+    margin: 0 auto;
+    min-height: 400px;
+    background: url('../../images/back.jpg') right no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
